@@ -2,4 +2,6 @@
 
 Simple Tetris game made in Python.
 
-<img src="/screenshot.png" alt="Screenshot"/>
+![Screenshot](/images/screenshot.png)
+
+<img src="/images/screenshot.png" alt="Screenshot"/>
