@@ -2,4 +2,4 @@
 
 Simple Tetris game made in Python.
 
-<img src="/screenshot.png" alt="Screenshot"/>
+![Screenshot](https://github.com/alicezhu17/tetris/blob/master/images/screenshot.PNG?raw=true)
